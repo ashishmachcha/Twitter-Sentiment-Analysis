@@ -1,0 +1,2 @@
+# Twitter-Sentiment-analysis
+Using libraries such as "tweepy" and "requests" twitter data were extracted based on a particular topic. This extracted tweets were then cleaned and then formed into a dataframe using NLP and pandas library to check the polarity/sentiment of each tweet whether it was positive negative or neutral. This insights were used to get an overall view people has on a particular topic. Prior created model was used to cross check the sentiments derived.
